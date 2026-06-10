@@ -1,0 +1,7 @@
+pandas
+numpy
+prophet
+scikit-learn
+sqlite3
+matplotlib
+tableau-api-lib
